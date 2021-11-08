@@ -1,4 +1,4 @@
-ML Assignment 2: Randomized Optimization
+ML Assignment 3: Unsupervised Learning
   
 1. What to install to run the script:
   a. Install python 3.6.9
