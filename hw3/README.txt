@@ -7,10 +7,10 @@ ML Assignment 2: Randomized Optimization
 2. How to run the script:
   a. Run from jupyter notebook (need to download jupyter notebook):
      download the jupyter notebook from the link below:
-     https://github.com/joannayhe/OMSCS_ML/blob/main/hw2/hw2_v3.ipynb
+     https://github.com/joannayhe/OMSCS_ML/blob/main/hw3/hw3.ipynb
      and click run all
      
   b. Open the script through html:
      download the .html file from the link below:
-     https://github.com/joannayhe/OMSCS_ML/blob/main/hw2/hw2_v3.html
+     https://github.com/joannayhe/OMSCS_ML/blob/main/hw3/hw3.html
      simply open the file and it will show the script and all the output.
